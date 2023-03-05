@@ -3,6 +3,6 @@
 #include <math.h>
 #include <iostream>
 int64_t power(int64_t x, uint16_t n) {
-    cout << pow(x, n)
+    std::cout << pow(x, n)
     return pow(x, n);
 }
