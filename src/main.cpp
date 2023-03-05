@@ -2,6 +2,8 @@
 #include "fun.h"
 
 
+
+
 int main() {
     power(2, 3);
     return 0;
